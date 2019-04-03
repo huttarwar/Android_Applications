@@ -12,6 +12,7 @@ Simple notes app that stores data and can Create, Modify, Delete note.
 ## StockWatch:- 
 
 Real-time stocks display. Also, one can add favourites in the list.
+[a link](https://github.com/huttarwar/Android_Applications/blob/master/StockWatch/StocksWatch_Requirements.pdf)
 
 ## Know Your Government: - 
 
