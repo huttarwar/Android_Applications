@@ -1,0 +1,16 @@
+package com.example.heramb.know_your_govt;
+
+import android.os.Bundle;
+import android.support.v7.app.ActionBar;
+import android.support.v7.app.AppCompatActivity;
+
+public class About extends AppCompatActivity {
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.about);
+
+        ActionBar actionBar=getSupportActionBar();
+    }
+}
+
